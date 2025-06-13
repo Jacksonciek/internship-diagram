@@ -273,6 +273,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="68-flfrowqD-1nCbaPlq-1" value="&lt;b&gt;Sequence Diagram Platform AI Mastering Document&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="68-flfrowqD-1nCbaPlq-2" value="&lt;span&gt;Platform AI Mastering Document&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="60" y="64" width="210" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -281,7 +287,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_VVxEupaLdM1pxFEP1O9-1" value="&lt;b&gt;Flowchart Fitur AI Smart Chatbot&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="_VVxEupaLdM1pxFEP1O9-1" value="&lt;b&gt;Activity Diagram Fitur AI Smart Chatbot&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="110" y="60" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_VVxEupaLdM1pxFEP1O9-2" value="&lt;span&gt;Platform AI Mastering Document&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="1">
@@ -295,6 +301,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KyWgUZuMJmEJ9p0nVEv5-1" value="&lt;b&gt;Activity Diagram Fitur AI Smart Searching&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KyWgUZuMJmEJ9p0nVEv5-2" value="&lt;span&gt;Platform AI Mastering Document&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="100" y="74" width="210" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -303,6 +315,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Tn0Zny-DkfcW-tblWHc4-1" value="&lt;b&gt;Activity Diagram Fitur AI Grouping&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tn0Zny-DkfcW-tblWHc4-2" value="&lt;span&gt;Platform AI Mastering Document&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="60" y="64" width="210" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
