@@ -268,6 +268,14 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="u2AcAsP9EAwX6XArPWUs" name="Sequence">
+    <mxGraphModel dx="1385" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="03Oervj67Exw_-m5RxjB" name="Activity Diagram Chatbot">
     <mxGraphModel dx="1385" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -279,14 +287,6 @@
         <mxCell id="_VVxEupaLdM1pxFEP1O9-2" value="&lt;span&gt;Platform AI Mastering Document&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="110" y="84" width="210" height="30" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="u2AcAsP9EAwX6XArPWUs" name="Sequence">
-    <mxGraphModel dx="1385" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
