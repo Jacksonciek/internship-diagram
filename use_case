@@ -493,7 +493,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LIBJblQtNdKEICDtWFM_" name="Diagram Architecture">
-    <mxGraphModel dx="1195" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1016" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -523,8 +523,8 @@
         <mxCell id="Jhong23qfJLX8nnjqqeo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zp6y8aeNhBImGU0UPLsd-54" target="zp6y8aeNhBImGU0UPLsd-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="400" />
-              <mxPoint x="473" y="400" />
+              <mxPoint x="640" y="410" />
+              <mxPoint x="473" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -566,12 +566,12 @@
         <mxCell id="zp6y8aeNhBImGU0UPLsd-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zp6y8aeNhBImGU0UPLsd-5" target="zp6y8aeNhBImGU0UPLsd-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jhong23qfJLX8nnjqqeo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=180;exitDy=10;exitPerimeter=0;" edge="1" parent="1" source="zp6y8aeNhBImGU0UPLsd-5">
+        <mxCell id="YnkQ1oRzwPbpqThaizvB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=180;exitDy=10;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zp6y8aeNhBImGU0UPLsd-5" target="zp6y8aeNhBImGU0UPLsd-63">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="475" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="380" />
-              <mxPoint x="460" y="380" />
+              <mxPoint x="480" y="323" />
+              <mxPoint x="480" y="410" />
+              <mxPoint x="473" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -792,7 +792,7 @@
           <mxGeometry x="266.25" y="670.62" width="123.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Jhong23qfJLX8nnjqqeo-3" value="&lt;b&gt;Deploy frontend &amp;amp; backend&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="403" width="100" height="30" as="geometry" />
+          <mxGeometry x="486" y="376.52" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="urBrxp8m98qxuAru-9wH-2" value="&lt;b&gt;Fetch / Create memory conversation &amp;amp; history&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="337" y="594.69" width="143" height="30" as="geometry" />
