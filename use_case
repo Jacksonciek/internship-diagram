@@ -659,6 +659,14 @@
         <mxCell id="zp6y8aeNhBImGU0UPLsd-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zp6y8aeNhBImGU0UPLsd-38" target="zp6y8aeNhBImGU0UPLsd-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YnkQ1oRzwPbpqThaizvB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zp6y8aeNhBImGU0UPLsd-38" target="zp6y8aeNhBImGU0UPLsd-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="703" y="840" />
+              <mxPoint x="459" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zp6y8aeNhBImGU0UPLsd-38" value="Retrieval-Augmented Generation (RAG)" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="616.62" y="594.69" width="173.75" height="51.25" as="geometry" />
         </mxCell>
@@ -750,7 +758,7 @@
           <mxGeometry x="796" y="634.62" width="81.62" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zp6y8aeNhBImGU0UPLsd-97" value="&lt;b&gt;Store vector embeddings&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="714.24" y="750" width="163.38" height="30" as="geometry" />
+          <mxGeometry x="190" y="810" width="163.38" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zp6y8aeNhBImGU0UPLsd-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.27;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zp6y8aeNhBImGU0UPLsd-36" target="zp6y8aeNhBImGU0UPLsd-54">
           <mxGeometry relative="1" as="geometry" />
@@ -796,6 +804,9 @@
         </mxCell>
         <mxCell id="urBrxp8m98qxuAru-9wH-2" value="&lt;b&gt;Fetch / Create memory conversation &amp;amp; history&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="337" y="594.69" width="143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YnkQ1oRzwPbpqThaizvB-6" value="&lt;b&gt;Categorized document to folder&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="845" width="163.38" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
