@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0" version="27.1.5" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0" version="27.1.5" pages="6">
   <diagram id="oO3O_HYOF1GAgqy5qbVJ" name="Use Case">
-    <mxGraphModel dx="660" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1979" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -504,6 +504,32 @@
         </mxCell>
         <mxCell id="Pvh3Bq1CNR7vFhFkv40J-35" value="AI Grouping Process (Document Foldering)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="530" y="374" width="210" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SITd7v4B535CuMV9zaDu" name="Flowchart Pengembangan">
+    <mxGraphModel dx="1204" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AFJc18L-othAEzUWipa0-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-1070" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AFJc18L-othAEzUWipa0-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380" y="-600" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AFJc18L-othAEzUWipa0-3" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="AFJc18L-othAEzUWipa0-5">
+          <mxGeometry width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AFJc18L-othAEzUWipa0-4" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="AFJc18L-othAEzUWipa0-5">
+          <mxGeometry x="5" y="5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AFJc18L-othAEzUWipa0-6" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.07894736842105263;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-820" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AFJc18L-othAEzUWipa0-7" value="Mengembangkan Chatbot sendiri" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="355" y="-960" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
