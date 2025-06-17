@@ -1259,6 +1259,15 @@
             <mxPoint x="520" y="88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ywf14EvqK5FFI9sDfZyo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3lMWyPQ_BKPqtRtV0nCm-13" target="3lMWyPQ_BKPqtRtV0nCm-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="320" />
+              <mxPoint x="470" y="430" />
+              <mxPoint x="380" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3lMWyPQ_BKPqtRtV0nCm-13" value="Fetch Conversation ID" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="539.5" y="300" width="120" height="40" as="geometry" />
         </mxCell>
