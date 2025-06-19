@@ -1231,7 +1231,7 @@
           <mxGeometry x="320" y="372" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3lMWyPQ_BKPqtRtV0nCm-18" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="266" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3lMWyPQ_BKPqtRtV0nCm-19" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
