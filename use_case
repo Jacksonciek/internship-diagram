@@ -293,7 +293,7 @@
           <mxGeometry x="40" y="540" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bX0DUstSgoL4tTHfUfox-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#F0F0F0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bX0DUstSgoL4tTHfUfox-1">
-          <mxGeometry x="170" y="130" width="640" height="860" as="geometry" />
+          <mxGeometry x="170" y="130" width="640" height="850" as="geometry" />
         </mxCell>
         <mxCell id="bX0DUstSgoL4tTHfUfox-6" value="Manage Category (Folder)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bX0DUstSgoL4tTHfUfox-1">
           <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
