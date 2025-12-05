@@ -1069,7 +1069,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Diagram Architecture" id="5OOzBIFpKkRApE09fIMV">
-    <mxGraphModel dx="1333" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1538" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kpVt0WPpqQ9vhattTsLq-0" />
         <mxCell id="kpVt0WPpqQ9vhattTsLq-1" parent="kpVt0WPpqQ9vhattTsLq-0" />
@@ -1269,8 +1269,8 @@
         <mxCell id="_2GgeTPfxnbceSGKsHGS-60" edge="1" parent="kpVt0WPpqQ9vhattTsLq-1" source="_2GgeTPfxnbceSGKsHGS-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="_2GgeTPfxnbceSGKsHGS-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2470" y="525" />
-              <mxPoint x="2470" y="710" />
+              <mxPoint x="2480" y="580" />
+              <mxPoint x="2480" y="710" />
               <mxPoint x="2183" y="710" />
             </Array>
           </mxGeometry>
@@ -1346,8 +1346,8 @@
             <Array as="points">
               <mxPoint x="2004" y="795" />
               <mxPoint x="2004" y="660" />
-              <mxPoint x="2470" y="660" />
-              <mxPoint x="2470" y="525" />
+              <mxPoint x="2450" y="660" />
+              <mxPoint x="2450" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1515,6 +1515,23 @@
         </mxCell>
         <mxCell id="_2GgeTPfxnbceSGKsHGS-67" parent="kpVt0WPpqQ9vhattTsLq-1" style="shape=datastore;whiteSpace=wrap;html=1;" value="MySQL Database&lt;div&gt;Log&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="123.75" x="1900" y="950.62" as="geometry" />
+        </mxCell>
+        <mxCell id="_2GgeTPfxnbceSGKsHGS-68" parent="kpVt0WPpqQ9vhattTsLq-1" style="html=1;whiteSpace=wrap;fillColor=#F0F0F0;" value="" vertex="1">
+          <mxGeometry height="118.75" width="245" x="2218" y="921.25" as="geometry" />
+        </mxCell>
+        <mxCell id="_2GgeTPfxnbceSGKsHGS-69" parent="kpVt0WPpqQ9vhattTsLq-1" style="shape=manualInput;whiteSpace=wrap;html=1;rotation=90;size=17;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="112.5" width="30" x="2259.25" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="_2GgeTPfxnbceSGKsHGS-70" parent="kpVt0WPpqQ9vhattTsLq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;Visualizer Bot&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="2204" y="891.25" as="geometry" />
+        </mxCell>
+        <mxCell id="_2GgeTPfxnbceSGKsHGS-71" parent="kpVt0WPpqQ9vhattTsLq-1" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#FFFFFF;" value="Postman (Gateway)" vertex="1">
+          <mxGeometry height="60" width="190" x="2244.25" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="_2GgeTPfxnbceSGKsHGS-72" parent="_2GgeTPfxnbceSGKsHGS-71" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
