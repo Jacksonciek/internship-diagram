@@ -2288,7 +2288,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Activity Diagram Chatbot" id="iHAmB25FuIdadoN_zTu5">
-    <mxGraphModel dx="1176" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="667" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="2LF2HwfM3tA06douQhJ3-0" />
         <mxCell id="2LF2HwfM3tA06douQhJ3-1" parent="2LF2HwfM3tA06douQhJ3-0" />
@@ -2500,7 +2500,7 @@
           <mxGeometry height="40" width="120" x="539.5" y="625" as="geometry" />
         </mxCell>
         <mxCell id="ukVq5u-hqs_xVYHiSLy0-3" parent="2LF2HwfM3tA06douQhJ3-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
-          <mxGeometry height="30" width="60" x="450" y="620" as="geometry" />
+          <mxGeometry height="30" width="60" x="450" y="610" as="geometry" />
         </mxCell>
         <mxCell id="ukVq5u-hqs_xVYHiSLy0-7" parent="2LF2HwfM3tA06douQhJ3-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="No" vertex="1">
           <mxGeometry height="30" width="60" x="266" y="610" as="geometry" />
