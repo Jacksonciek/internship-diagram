@@ -2137,8 +2137,8 @@
         <mxCell id="vGAK9i3XEW3Sh3fNwcLr-22" parent="3K7b7qHKmuQB7w3O1R8t-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Save messages to database" vertex="1">
           <mxGeometry height="40" width="120" x="-69.53" y="-60" as="geometry" />
         </mxCell>
-        <mxCell id="vGAK9i3XEW3Sh3fNwcLr-23" parent="3K7b7qHKmuQB7w3O1R8t-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Send messages to user from prompt" vertex="1">
-          <mxGeometry height="40" width="120" x="-69.53" y="10" as="geometry" />
+        <mxCell id="vGAK9i3XEW3Sh3fNwcLr-23" parent="3K7b7qHKmuQB7w3O1R8t-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Send messages to user from prompt &amp;amp; LLM process" vertex="1">
+          <mxGeometry height="50" width="120" x="-69.53" y="10" as="geometry" />
         </mxCell>
         <mxCell id="vGAK9i3XEW3Sh3fNwcLr-25" parent="3K7b7qHKmuQB7w3O1R8t-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
           <mxGeometry height="30" width="60" x="-60" y="-210" as="geometry" />
