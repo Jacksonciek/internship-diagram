@@ -2424,7 +2424,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-56" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" value="data_action ==&lt;div&gt;&quot;PLOT&quot; &amp;amp; self._plot == True&lt;/div&gt;" vertex="1">
+        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-56" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" value="data_action ==&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;PLOT&quot;&lt;/span&gt;" vertex="1">
           <mxGeometry height="150" width="143" x="298.5" y="-130" as="geometry" />
         </mxCell>
         <mxCell id="M7P5mv6Yv9-wFTAgFKZw-57" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
@@ -2451,7 +2451,10 @@
         <mxCell id="M7P5mv6Yv9-wFTAgFKZw-64" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Result in DataFrame" vertex="1">
           <mxGeometry height="40" width="120" x="310" y="-390" as="geometry" />
         </mxCell>
-        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-65" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Dynamic Excel Export feature" vertex="1">
+        <mxCell id="n27ReHaH8OFEr1EtIxeX-0" edge="1" parent="M7P5mv6Yv9-wFTAgFKZw-1" source="M7P5mv6Yv9-wFTAgFKZw-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="M7P5mv6Yv9-wFTAgFKZw-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-65" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Generate&amp;nbsp;buffer BytesIO (export_out)" vertex="1">
           <mxGeometry height="40" width="120" x="121" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="M7P5mv6Yv9-wFTAgFKZw-67" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Automated Data Visualization feature" vertex="1">
@@ -2475,40 +2478,28 @@
         <mxCell id="M7P5mv6Yv9-wFTAgFKZw-73" edge="1" parent="M7P5mv6Yv9-wFTAgFKZw-1" source="M7P5mv6Yv9-wFTAgFKZw-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="M7P5mv6Yv9-wFTAgFKZw-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-74" edge="1" parent="M7P5mv6Yv9-wFTAgFKZw-1" source="M7P5mv6Yv9-wFTAgFKZw-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="M7P5mv6Yv9-wFTAgFKZw-80">
+        <mxCell id="mY0lfkpAWznB_V47e2s7-1" edge="1" parent="M7P5mv6Yv9-wFTAgFKZw-1" source="M7P5mv6Yv9-wFTAgFKZw-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="mY0lfkpAWznB_V47e2s7-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-75" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="CodeGen Python Plot Code" vertex="1">
-          <mxGeometry height="40" width="120" x="121" y="50" as="geometry" />
+        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-75" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Write DataFrame to Excel using&lt;div&gt;pandas.ExcelWriter&lt;/div&gt;&lt;div&gt;(xlsxwriter)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="121" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-77" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Error Messages &amp;amp; Refinement Code" vertex="1">
-          <mxGeometry height="40" width="120" x="-58.5" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-78" edge="1" parent="M7P5mv6Yv9-wFTAgFKZw-1" source="M7P5mv6Yv9-wFTAgFKZw-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="M7P5mv6Yv9-wFTAgFKZw-77">
+        <mxCell id="1QYE0c0DuV-YybK4lO1Y-1" edge="1" parent="M7P5mv6Yv9-wFTAgFKZw-1" source="n27ReHaH8OFEr1EtIxeX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="1QYE0c0DuV-YybK4lO1Y-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-79" edge="1" parent="M7P5mv6Yv9-wFTAgFKZw-1" source="M7P5mv6Yv9-wFTAgFKZw-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="M7P5mv6Yv9-wFTAgFKZw-82">
+        <mxCell id="n27ReHaH8OFEr1EtIxeX-1" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Upload to database &amp;amp; Cloudinary of the excel file" vertex="1">
+          <mxGeometry height="60" width="120" x="-67" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="mY0lfkpAWznB_V47e2s7-2" edge="1" parent="M7P5mv6Yv9-wFTAgFKZw-1" source="mY0lfkpAWznB_V47e2s7-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="n27ReHaH8OFEr1EtIxeX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-80" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" value="Runtime Check three times and code is valid" vertex="1">
-          <mxGeometry height="120" width="114.4" x="-55.699999999999996" y="10" as="geometry" />
+        <mxCell id="mY0lfkpAWznB_V47e2s7-0" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Generate Excel file based on user prompt + LLM" vertex="1">
+          <mxGeometry height="60" width="120" x="-67" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="tGX_aAl34La_YjmYlwM4-0" edge="1" parent="M7P5mv6Yv9-wFTAgFKZw-1" source="M7P5mv6Yv9-wFTAgFKZw-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="M7P5mv6Yv9-wFTAgFKZw-85">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1QYE0c0DuV-YybK4lO1Y-0" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Output Generator (LLM) based on data with excel file" vertex="1">
+          <mxGeometry height="50" width="120" x="-250" y="-25" as="geometry" />
         </mxCell>
-        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-82" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Generate image_base64 or plot image" vertex="1">
-          <mxGeometry height="50" width="120" x="-250" y="45" as="geometry" />
-        </mxCell>
-        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-83" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="No" vertex="1">
-          <mxGeometry height="30" width="60" x="-7" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-84" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
-          <mxGeometry height="30" width="60" x="-104" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-85" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Upload to database &amp;amp; Cloudinary of the image" vertex="1">
-          <mxGeometry height="55" width="120" x="-250" y="-35" as="geometry" />
-        </mxCell>
-        <mxCell id="M7P5mv6Yv9-wFTAgFKZw-88" edge="1" parent="M7P5mv6Yv9-wFTAgFKZw-1" source="M7P5mv6Yv9-wFTAgFKZw-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="M7P5mv6Yv9-wFTAgFKZw-5">
+        <mxCell id="1QYE0c0DuV-YybK4lO1Y-2" edge="1" parent="M7P5mv6Yv9-wFTAgFKZw-1" source="1QYE0c0DuV-YybK4lO1Y-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="M7P5mv6Yv9-wFTAgFKZw-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
