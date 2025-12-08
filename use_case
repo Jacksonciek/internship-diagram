@@ -2497,7 +2497,7 @@
           <mxGeometry height="60" width="120" x="-67" y="-25" as="geometry" />
         </mxCell>
         <mxCell id="1QYE0c0DuV-YybK4lO1Y-0" parent="M7P5mv6Yv9-wFTAgFKZw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Output Generator (LLM) based on data with excel file" vertex="1">
-          <mxGeometry height="50" width="120" x="-250" y="-25" as="geometry" />
+          <mxGeometry height="50" width="120" x="-250" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="1QYE0c0DuV-YybK4lO1Y-2" edge="1" parent="M7P5mv6Yv9-wFTAgFKZw-1" source="1QYE0c0DuV-YybK4lO1Y-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="M7P5mv6Yv9-wFTAgFKZw-5">
           <mxGeometry relative="1" as="geometry" />
