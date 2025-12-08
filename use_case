@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0" version="29.2.4" pages="14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0" version="29.2.4" pages="15">
   <diagram id="oO3O_HYOF1GAgqy5qbVJ" name="Use Case">
     <mxGraphModel dx="1540" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2245,6 +2245,262 @@
           <mxGeometry height="50" width="120" x="-250" y="80" as="geometry" />
         </mxCell>
         <mxCell id="qVRW9TThip9HSpkui0_u-23" edge="1" parent="3K7b7qHKmuQB7w3O1R8t-1" source="qVRW9TThip9HSpkui0_u-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="3K7b7qHKmuQB7w3O1R8t-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Copy of Flowchart Document Management" id="HT5qelgFCvkgR16J3XLN">
+    <mxGraphModel dx="1850" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-0" />
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-1" parent="KLeVIh0VLac_GfcZfxoq-0" />
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-2" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-3" parent="KLeVIh0VLac_GfcZfxoq-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="Start" vertex="1">
+          <mxGeometry height="70" width="70" x="146" y="-990" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-4" connectable="0" parent="KLeVIh0VLac_GfcZfxoq-1" style="group" value="" vertex="1">
+          <mxGeometry height="70" width="70" x="-225" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-5" parent="KLeVIh0VLac_GfcZfxoq-4" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="Start" vertex="1">
+          <mxGeometry height="70" width="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-6" parent="KLeVIh0VLac_GfcZfxoq-4" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="Stop" vertex="1">
+          <mxGeometry height="60" width="60" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-7" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-8" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-9" parent="KLeVIh0VLac_GfcZfxoq-1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" value="Validate JWT,&lt;div&gt;user_id, room_id,&amp;nbsp;&lt;/div&gt;&lt;div&gt;user_prompt&lt;/div&gt;&lt;div&gt;not empty?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="150" x="106" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-10" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-11" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="User Prompt +&lt;div&gt;/api/rooms/&amp;lt;room_id&amp;gt;/messages/bot&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="219" x="71.5" y="-900" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-12" parent="KLeVIh0VLac_GfcZfxoq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="-795" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-13" parent="KLeVIh0VLac_GfcZfxoq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="-795" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-14" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-15" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Update room name based on user_prompt" vertex="1">
+          <mxGeometry height="50" width="120" x="-70" y="-790" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-16" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Endpoint send error messages" vertex="1">
+          <mxGeometry height="45" width="120" x="310" y="-787.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-17" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-18" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Call VisualizerBot.run&lt;div&gt;(user_prompt, room_id, user_id)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-70" y="-720" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-19" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-20" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Fetch relevant chat history from messages table in ai_reporting_log" vertex="1">
+          <mxGeometry height="70" width="120" x="121" y="-655" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-21" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-22" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Chat history format &amp;amp; merge with db_schema + user_prompt" vertex="1">
+          <mxGeometry height="70" width="120" x="310" y="-655" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-23" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-24" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Send context to LLM with system prompt&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="120" x="310" y="-505" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-25" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-26" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Parse JSON (next_agent, response, data_action,&lt;div&gt;response_status, export_csv)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="121" y="-535" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-27" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-28" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-29" parent="KLeVIh0VLac_GfcZfxoq-1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" value="Parsing JSON works &amp;amp; response_status == 200?" vertex="1">
+          <mxGeometry height="170" width="162.07" x="-90.57000000000001" y="-570" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-30" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-31" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Build a generic rejection response: &quot;Sorry I can&#39;t answer this question...&quot;" vertex="1">
+          <mxGeometry height="65" width="120" x="-250" y="-517.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-32" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-33" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Graph start node: ConversationNode" vertex="1">
+          <mxGeometry height="40" width="120" x="-70" y="-640" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-34" parent="KLeVIh0VLac_GfcZfxoq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="-60" y="-398" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-35" parent="KLeVIh0VLac_GfcZfxoq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="-137" y="-516" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-36" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-37" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-38" parent="KLeVIh0VLac_GfcZfxoq-1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" value="next_agent == &quot;CONVERSATION&quot;" vertex="1">
+          <mxGeometry height="150" width="143" x="-81.5" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-39" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-40" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="The graph stops at ConversationNode without calling SQLAgent" vertex="1">
+          <mxGeometry height="70" width="120" x="-250" y="-410" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-41" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Endpoint send error messages" vertex="1">
+          <mxGeometry height="40" width="120" x="-250" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-42" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-43" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-44" parent="KLeVIh0VLac_GfcZfxoq-1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" value="next_agent == &quot;FETCH&quot;" vertex="1">
+          <mxGeometry height="150" width="143" x="298.5" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-45" parent="KLeVIh0VLac_GfcZfxoq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="53" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-46" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJgWHC2gwG0VzApl_Wte-4" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="-130" />
+              <mxPoint x="90" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-48" parent="KLeVIh0VLac_GfcZfxoq-1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" value="next_agent == &quot;EXPORT&quot;" vertex="1">
+          <mxGeometry height="150" width="143" x="109.5" y="-205" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-49" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Endpoint send error messages" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-50" parent="KLeVIh0VLac_GfcZfxoq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="64.5" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="AJgWHC2gwG0VzApl_Wte-2" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AJgWHC2gwG0VzApl_Wte-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-51" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="The graph stops at ConversationNode `summarized_output = response`" vertex="1">
+          <mxGeometry height="75" width="120" x="-69.53" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-52" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-9.526315789473756" y="-20" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-53" parent="KLeVIh0VLac_GfcZfxoq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="-60" y="-213" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-54" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJgWHC2gwG0VzApl_Wte-8" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="-55" />
+              <mxPoint x="480" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-56" parent="KLeVIh0VLac_GfcZfxoq-1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" value="data_action ==&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;PLOT&quot;&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="150" width="143" x="298.5" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-57" parent="KLeVIh0VLac_GfcZfxoq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-58" parent="KLeVIh0VLac_GfcZfxoq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="241" y="-265" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-59" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-60" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Fetch Database" vertex="1">
+          <mxGeometry height="40" width="120" x="121" y="-390" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-61" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-62" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="SQLAgent + LLM Process" vertex="1">
+          <mxGeometry height="40" width="120" x="120.99999999999997" y="-305" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-63" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLeVIh0VLac_GfcZfxoq-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-64" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Result in DataFrame" vertex="1">
+          <mxGeometry height="40" width="120" x="310" y="-390" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-65" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Dynamic Excel Export feature" vertex="1">
+          <mxGeometry height="40" width="120" x="121" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-67" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Automated Data Visualization feature" vertex="1">
+          <mxGeometry height="40" width="120" x="310" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-68" parent="KLeVIh0VLac_GfcZfxoq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="177" y="-57" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-69" parent="KLeVIh0VLac_GfcZfxoq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-70" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Output Generator (LLM) based on data" vertex="1">
+          <mxGeometry height="40" width="120" x="310" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-71" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="KLeVIh0VLac_GfcZfxoq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLeVIh0VLac_GfcZfxoq-72" parent="KLeVIh0VLac_GfcZfxoq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="425" y="-85" as="geometry" />
+        </mxCell>
+        <mxCell id="AJgWHC2gwG0VzApl_Wte-3" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="AJgWHC2gwG0VzApl_Wte-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AJgWHC2gwG0VzApl_Wte-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJgWHC2gwG0VzApl_Wte-0" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Save messages to database" vertex="1">
+          <mxGeometry height="40" width="120" x="-69.53" y="-75" as="geometry" />
+        </mxCell>
+        <mxCell id="AJgWHC2gwG0VzApl_Wte-1" parent="KLeVIh0VLac_GfcZfxoq-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Send messages to user from prompt &amp;amp; LLM process" vertex="1">
+          <mxGeometry height="60" width="120" x="-69.53" as="geometry" />
+        </mxCell>
+        <mxCell id="AJgWHC2gwG0VzApl_Wte-5" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="KLeVIh0VLac_GfcZfxoq-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="120" />
+              <mxPoint x="-190" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AJgWHC2gwG0VzApl_Wte-7" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="AJgWHC2gwG0VzApl_Wte-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="KLeVIh0VLac_GfcZfxoq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJgWHC2gwG0VzApl_Wte-9" edge="1" parent="KLeVIh0VLac_GfcZfxoq-1" source="KLeVIh0VLac_GfcZfxoq-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="KLeVIh0VLac_GfcZfxoq-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
