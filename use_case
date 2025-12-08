@@ -2018,7 +2018,7 @@
         <mxCell id="DvhLqDMlu_bQ5ABgcYyT-3" parent="3K7b7qHKmuQB7w3O1R8t-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Endpoint send error messages" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="-795" as="geometry" />
         </mxCell>
-        <mxCell id="DvhLqDMlu_bQ5ABgcYyT-19" edge="1" parent="3K7b7qHKmuQB7w3O1R8t-1" source="DvhLqDMlu_bQ5ABgcYyT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DvhLqDMlu_bQ5ABgcYyT-18">
+        <mxCell id="DvhLqDMlu_bQ5ABgcYyT-32" edge="1" parent="3K7b7qHKmuQB7w3O1R8t-1" source="DvhLqDMlu_bQ5ABgcYyT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DvhLqDMlu_bQ5ABgcYyT-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DvhLqDMlu_bQ5ABgcYyT-4" parent="3K7b7qHKmuQB7w3O1R8t-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Call VisualizerBot.run&lt;div&gt;(user_prompt, room_id, user_id)&lt;/div&gt;" vertex="1">
@@ -2028,28 +2028,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DvhLqDMlu_bQ5ABgcYyT-18" parent="3K7b7qHKmuQB7w3O1R8t-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Fetch relevant chat history from messages table in ai_reporting_log" vertex="1">
-          <mxGeometry height="70" width="120" x="-70" y="-640" as="geometry" />
+          <mxGeometry height="70" width="120" x="121" y="-655" as="geometry" />
         </mxCell>
-        <mxCell id="DvhLqDMlu_bQ5ABgcYyT-29" edge="1" parent="3K7b7qHKmuQB7w3O1R8t-1" source="DvhLqDMlu_bQ5ABgcYyT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DvhLqDMlu_bQ5ABgcYyT-22">
+        <mxCell id="DvhLqDMlu_bQ5ABgcYyT-35" edge="1" parent="3K7b7qHKmuQB7w3O1R8t-1" source="DvhLqDMlu_bQ5ABgcYyT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DvhLqDMlu_bQ5ABgcYyT-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DvhLqDMlu_bQ5ABgcYyT-20" parent="3K7b7qHKmuQB7w3O1R8t-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Chat history format &amp;amp; merge with db_schema + user_prompt" vertex="1">
-          <mxGeometry height="70" width="120" x="121" y="-640" as="geometry" />
+          <mxGeometry height="70" width="120" x="310" y="-655" as="geometry" />
         </mxCell>
-        <mxCell id="DvhLqDMlu_bQ5ABgcYyT-25" edge="1" parent="3K7b7qHKmuQB7w3O1R8t-1" source="DvhLqDMlu_bQ5ABgcYyT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DvhLqDMlu_bQ5ABgcYyT-23">
+        <mxCell id="DvhLqDMlu_bQ5ABgcYyT-37" edge="1" parent="3K7b7qHKmuQB7w3O1R8t-1" source="DvhLqDMlu_bQ5ABgcYyT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="DvhLqDMlu_bQ5ABgcYyT-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DvhLqDMlu_bQ5ABgcYyT-22" parent="3K7b7qHKmuQB7w3O1R8t-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Send context to LLM with system prompt&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="120" x="310" y="-625" as="geometry" />
+          <mxGeometry height="40" width="120" x="310" y="-505" as="geometry" />
         </mxCell>
-        <mxCell id="DvhLqDMlu_bQ5ABgcYyT-28" edge="1" parent="3K7b7qHKmuQB7w3O1R8t-1" source="DvhLqDMlu_bQ5ABgcYyT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="DvhLqDMlu_bQ5ABgcYyT-26">
+        <mxCell id="DvhLqDMlu_bQ5ABgcYyT-38" edge="1" parent="3K7b7qHKmuQB7w3O1R8t-1" source="DvhLqDMlu_bQ5ABgcYyT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="DvhLqDMlu_bQ5ABgcYyT-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DvhLqDMlu_bQ5ABgcYyT-23" parent="3K7b7qHKmuQB7w3O1R8t-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Parse JSON (next_agent, response, data_action,&lt;div&gt;response_status, export_csv)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="120" x="310" y="-515" as="geometry" />
+          <mxGeometry height="100" width="120" x="121" y="-535" as="geometry" />
         </mxCell>
         <mxCell id="DvhLqDMlu_bQ5ABgcYyT-26" parent="3K7b7qHKmuQB7w3O1R8t-1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" value="Parsing JSON works &amp;amp; response_status == 200?" vertex="1">
-          <mxGeometry height="170" width="162.07" x="99.96" y="-550" as="geometry" />
+          <mxGeometry height="170" width="162.07" x="-90.57000000000001" y="-570" as="geometry" />
+        </mxCell>
+        <mxCell id="DvhLqDMlu_bQ5ABgcYyT-30" parent="3K7b7qHKmuQB7w3O1R8t-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Build a generic rejection response: &quot;Sorry I can&#39;t answer this question...&quot;" vertex="1">
+          <mxGeometry height="100" width="120" x="-250" y="-535" as="geometry" />
+        </mxCell>
+        <mxCell id="DvhLqDMlu_bQ5ABgcYyT-34" edge="1" parent="3K7b7qHKmuQB7w3O1R8t-1" source="DvhLqDMlu_bQ5ABgcYyT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DvhLqDMlu_bQ5ABgcYyT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DvhLqDMlu_bQ5ABgcYyT-31" parent="3K7b7qHKmuQB7w3O1R8t-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0;" value="Graph start node: ConversationNode" vertex="1">
+          <mxGeometry height="40" width="120" x="-70" y="-640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
