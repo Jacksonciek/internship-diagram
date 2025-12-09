@@ -285,7 +285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Use Case" id="aeGmma3kZKqgkiMOZfm5">
-    <mxGraphModel dx="1000" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2000" dy="1268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Eln-Sl_n0PFamBB3-MEZ-0" />
         <mxCell id="Eln-Sl_n0PFamBB3-MEZ-1" parent="Eln-Sl_n0PFamBB3-MEZ-0" />
@@ -370,12 +370,6 @@
         </mxCell>
         <mxCell id="ET3Mjg5gFWGzT8oMC4VN-7" parent="Eln-Sl_n0PFamBB3-MEZ-1" style="ellipse;whiteSpace=wrap;html=1;" value="Create New Chat&lt;div&gt;(Room Chat)&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="135" x="425" y="660" as="geometry" />
-        </mxCell>
-        <mxCell id="ET3Mjg5gFWGzT8oMC4VN-10" edge="1" parent="Eln-Sl_n0PFamBB3-MEZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="485" y="1050" as="sourcePoint" />
-            <mxPoint x="485" y="1050" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ET3Mjg5gFWGzT8oMC4VN-12" parent="Eln-Sl_n0PFamBB3-MEZ-1" style="ellipse;whiteSpace=wrap;html=1;" value="View Response" vertex="1">
           <mxGeometry height="70" width="135" x="190" y="780" as="geometry" />
